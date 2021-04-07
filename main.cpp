@@ -11,5 +11,10 @@ void swap(int *a, int *b) {
 
 int main() {
     cout << "Dongha Hwang" << endl;
+    int *a;
+    *a = 1;
+    int *b;
+    *b = 2;
+    swap(a, b);
     return 0;
 }
