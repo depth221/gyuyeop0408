@@ -12,6 +12,6 @@ double sum(double a, double b) {
 
 
 int main() {
-    cout << "Dongha Hwang" << endl;
+    cout << sum(1, 2) << endl;
     return 0;
 }
